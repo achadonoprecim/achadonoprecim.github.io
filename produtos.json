@@ -1,19 +1,5 @@
 [
   {
-    "id": "23593603405",
-    "nome": "Oxímetro de Dedo Digital Portátil | Medidor de Oxigênio SpO2 e Frequência Cardíaca com Tela LED Colorida",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
-    "preco": 13.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 9846,
-    "nota": 4.7,
-    "url": "https://s.shopee.com.br/3qO7obXnxh",
-    "data": "2026-10-24"
-  },
-  {
     "id": "58262115339",
     "nome": "Extensor Elástico Exercícios Academia Ginástica Tensão Forte Faixa Resistência com Corda para Puxar",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-823p4-mp82s047s5580f",
@@ -25,6 +11,20 @@
     "vendas": 8805,
     "nota": 4.8,
     "url": "https://s.shopee.com.br/9Kj4MacEbt",
+    "data": "2026-10-24"
+  },
+  {
+    "id": "23593603405",
+    "nome": "Oxímetro de Dedo Digital Portátil | Medidor de Oxigênio SpO2 e Frequência Cardíaca com Tela LED Colorida",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
+    "preco": 13.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 9846,
+    "nota": 4.7,
+    "url": "https://s.shopee.com.br/3qO7obXnxh",
     "data": "2026-10-24"
   },
   {
