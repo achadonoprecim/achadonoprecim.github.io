@@ -1,5 +1,19 @@
 [
   {
+    "id": "19499664683",
+    "nome": "Óleo Nutritivo 3 Em 1 Ox Nutre 120ml",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-msfzqlncxkw6ea",
+    "preco": 29.99,
+    "de": 41.9,
+    "desconto": 28.4,
+    "fonte_de": "feed",
+    "a_partir_de": false,
+    "vendas": 9116,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/2qVac7nRK0",
+    "data": "2026-10-24"
+  },
+  {
     "id": "22094807317",
     "nome": "Kit Varão Cortina De 1,00mt a 3,00mt De Madeira Completo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj19qn7vv1fl31",
@@ -823,20 +837,6 @@
     "vendas": 15588,
     "nota": 4.7,
     "url": "https://s.shopee.com.br/2LZISvP87Q",
-    "data": "2026-10-23"
-  },
-  {
-    "id": "23793879757",
-    "nome": "Daily T-shirt Insider",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mimqxns395oicb",
-    "preco": 74.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 12808,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/40hLYzFnpO",
     "data": "2026-10-23"
   }
 ]
