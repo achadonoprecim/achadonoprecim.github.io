@@ -1,19 +1,5 @@
 [
   {
-    "id": "43417844488",
-    "nome": "Fantasia Infantil Masculina Herói com Máscara Roupa Curta para Festa",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeurxzmjl6oad",
-    "preco": 34.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 8938,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/40hZx27iRL",
-    "data": "2026-10-25"
-  },
-  {
     "id": "21699840214",
     "nome": "Clareador De Axilas, Virilhas, Corporal e Íntimo - Clear Beauty",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mq3kdrcwzhmr8e",
@@ -25,6 +11,20 @@
     "vendas": 8904,
     "nota": 4.8,
     "url": "https://s.shopee.com.br/1W0EzCFdkr",
+    "data": "2026-10-25"
+  },
+  {
+    "id": "43417844488",
+    "nome": "Fantasia Infantil Masculina Herói com Máscara Roupa Curta para Festa",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeurxzmjl6oad",
+    "preco": 34.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 8938,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/40hZx27iRL",
     "data": "2026-10-25"
   },
   {
