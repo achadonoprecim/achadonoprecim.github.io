@@ -1,5 +1,19 @@
 [
   {
+    "id": "18297619389",
+    "nome": "Lixador de Pé Elétrico - Esfoliador Tira Calos Pedicure Portátil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr68nerol2joe0",
+    "preco": 15.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": true,
+    "vendas": 9018,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/9V2WTG7drJ",
+    "data": "2026-10-25"
+  },
+  {
     "id": "23399440017",
     "nome": "Kit 2PCS Faca de Frutas Faca Cutelo Churrasco Carne de Cozinha Faca para Cortar Churrasco Com Bainha",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mndemjg286bl5b",
@@ -823,20 +837,6 @@
     "vendas": 11856,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/3VlFr3Tkr1",
-    "data": "2026-10-23"
-  },
-  {
-    "id": "58211510076",
-    "nome": "Kit 10 Marmita 900ml - Travas Hermética Premium BPA FREE Alta Vedação Freezer Microondas Lava Louças",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mor984tocruo79",
-    "preco": 31.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 12064,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/5VW7kQc1Ow",
     "data": "2026-10-23"
   }
 ]
