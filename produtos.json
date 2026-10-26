@@ -1,5 +1,33 @@
 [
   {
+    "id": "22017733321",
+    "nome": "Pistola De Cola Quente Pequena Bivolt + 10 Bastões De Cola Quente Fino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mrbvaxurr1mv50",
+    "preco": 19.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 7866,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/7AedlR20ZH",
+    "data": "2026-10-26"
+  },
+  {
+    "id": "41933116210",
+    "nome": "Kit com 10 ou 5 Cuecas Boxer Premium Masculina Extremamente Confortável Cueca Box",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mr93qaevk9hi01",
+    "preco": 23.89,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": true,
+    "vendas": 8679,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/1gJhCzR6Aq",
+    "data": "2026-10-26"
+  },
+  {
     "id": "22816294190",
     "nome": "Mop Spray Com Reservatório Esfregão Vassoura Mágica",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mool78g30vsz1c",
@@ -809,34 +837,6 @@
     "vendas": 10511,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/1W0BTLOuN6",
-    "data": "2026-10-23"
-  },
-  {
-    "id": "22494186665",
-    "nome": "Revestimento Ripado Autocolante de EVA Flexivel Rolo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mserp2lb0dmvfb",
-    "preco": 35.9,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 10113,
-    "nota": 4.6,
-    "url": "https://s.shopee.com.br/6VOgXZfkXO",
-    "data": "2026-10-23"
-  },
-  {
-    "id": "22194379268",
-    "nome": "Caderno Pequeno ou Grande 21x14cm Tipo Moleskine Sketchbook Sem Pauta Caderneta",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdz28codt3ibbb",
-    "preco": 12.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 10134,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/50a3dtmLzg",
     "data": "2026-10-23"
   }
 ]
