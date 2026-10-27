@@ -1,5 +1,33 @@
 [
   {
+    "id": "23899381883",
+    "nome": "Kit 1/2/3 Pares Meias 3D Infantis Personagens Divertidos Conforto Macio Sortidos Criança Festa",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zn-mm62a3k8epdtd3",
+    "preco": 19.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": true,
+    "vendas": 11190,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/8pmsavxwhw",
+    "data": "2026-10-27"
+  },
+  {
+    "id": "22693688637",
+    "nome": "Balança Digital De Vidro até 180Kg Portátil Corporal",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a",
+    "preco": 34.99,
+    "de": 55.99,
+    "desconto": 37.5,
+    "fonte_de": "feed",
+    "a_partir_de": false,
+    "vendas": 9349,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/5LD19CVSTo",
+    "data": "2026-10-27"
+  },
+  {
     "id": "16793190004",
     "nome": "Kit Tapete Cozinha Passadeira Jogo Tear 3 Peças Kit Passadeira Cozinha Jogo De Cozinha",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mq715nf4pkhv03",
@@ -81,20 +109,6 @@
     "vendas": 38001,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/9Kj9AYFQQe",
-    "data": "2026-10-27"
-  },
-  {
-    "id": "23899381883",
-    "nome": "Kit 1/2/3 Pares Meias 3D Infantis Personagens Divertidos Conforto Macio Sortidos Criança Festa",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zn-mm62a3k8epdtd3",
-    "preco": 19.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 11190,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/8pmsavxwhw",
     "data": "2026-10-27"
   },
   {
@@ -824,19 +838,5 @@
     "nota": 4.9,
     "url": "https://s.shopee.com.br/2qVac7nRK0",
     "data": "2026-10-24"
-  },
-  {
-    "id": "22094807317",
-    "nome": "Kit Varão Cortina De 1,00mt a 3,00mt De Madeira Completo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj19qn7vv1fl31",
-    "preco": 14.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 9556,
-    "nota": 4.5,
-    "url": "https://s.shopee.com.br/LoF4aEQyg",
-    "data": "2026-10-23"
   }
 ]
