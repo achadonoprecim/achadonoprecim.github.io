@@ -1,5 +1,33 @@
 [
   {
+    "id": "58251826706",
+    "nome": "Brinquedo Maquina Bolha De Sabão Pistola Automática judy store",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82300-mi4xn40ikmbk57",
+    "preco": 19.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": true,
+    "vendas": 8092,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/8pmtLqFS82",
+    "data": "2026-10-27"
+  },
+  {
+    "id": "55865986117",
+    "nome": "JBSARA Revive Spicule Shot 102 Ampoule Serum 1g 1ea",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134207-8258w-mrv26l1j53igaa",
+    "preco": 3.49,
+    "de": 9.5,
+    "desconto": 63.3,
+    "fonte_de": "feed",
+    "a_partir_de": false,
+    "vendas": 7929,
+    "nota": 5.0,
+    "url": "https://s.shopee.com.br/1BUqFAzb1",
+    "data": "2026-10-27"
+  },
+  {
     "id": "58252499506",
     "nome": "Bateria externa portátil de 5000/10000 mAh, com cabo de carregamento incluso.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjy4kou8o93770",
@@ -25,20 +53,6 @@
     "vendas": 7996,
     "nota": 4.7,
     "url": "https://s.shopee.com.br/7Ky5ZHGNuj",
-    "data": "2026-10-27"
-  },
-  {
-    "id": "58251826706",
-    "nome": "Brinquedo Maquina Bolha De Sabão Pistola Automática judy store",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82300-mi4xn40ikmbk57",
-    "preco": 19.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 8092,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/8pmtLqFS82",
     "data": "2026-10-27"
   },
   {
@@ -823,20 +837,6 @@
     "vendas": 9280,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/6q1k95Y59O",
-    "data": "2026-10-24"
-  },
-  {
-    "id": "10776872009",
-    "nome": "Antena Digital Interna Externa Full Hdtv 4K Cabo Grande",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr3eppqak0zx3c",
-    "preco": 22.88,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 9270,
-    "nota": 4.7,
-    "url": "https://s.shopee.com.br/BUqCjzsvA",
     "data": "2026-10-24"
   }
 ]
