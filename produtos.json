@@ -1,5 +1,19 @@
 [
   {
+    "id": "22398191081",
+    "nome": "Goma Gomets Sortido Dori 500g",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825at-ms1t8jbg6ltw24",
+    "preco": 8.99,
+    "de": 12.19,
+    "desconto": 26.3,
+    "fonte_de": "feed",
+    "a_partir_de": false,
+    "vendas": 15076,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/6q1q33Fb2g",
+    "data": "2026-10-28"
+  },
+  {
     "id": "58251084924",
     "nome": "Chave T Longa 10mm + Pastilha para Abrir Agitador de Máquina de Lavar – Uso Universal",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhj1o3heh1ja51",
@@ -823,20 +837,6 @@
     "vendas": 9162,
     "nota": 4.6,
     "url": "https://s.shopee.com.br/9APfndH28J",
-    "data": "2026-10-25"
-  },
-  {
-    "id": "22499538802",
-    "nome": "Carteiras Fibra De Carbono Porta-Cartões Masculina Preta Mágica Tripla De Couro",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpxyqshac1e379",
-    "preco": 14.5,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 10067,
-    "nota": 4.6,
-    "url": "https://s.shopee.com.br/4B0zpl0EjO",
     "data": "2026-10-25"
   }
 ]
