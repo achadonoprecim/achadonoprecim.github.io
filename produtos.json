@@ -1,5 +1,33 @@
 [
   {
+    "id": "23993058946",
+    "nome": "Kit 2 Toalhas de Banho Gigante 1.40 x 70 Cm 100% Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwpze1ju3ekyaa",
+    "preco": 31.9,
+    "de": 64.9,
+    "desconto": 50.8,
+    "fonte_de": "feed",
+    "a_partir_de": false,
+    "vendas": 8749,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/1BWQ8JykR",
+    "data": "2026-10-28"
+  },
+  {
+    "id": "22399212202",
+    "nome": "Capa de Sapato Silicone Impermeável - Antiderrapante Unissex | Uso Interior e Exterior",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhljdrgsbjlv36",
+    "preco": 16.58,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 8794,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/9V2bjOs633",
+    "data": "2026-10-28"
+  },
+  {
     "id": "23794330101",
     "nome": "Porta Ovos 4 Andares Rolante em Plástico para Geladeira Organizador 20 a 30 Ovos",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
@@ -809,34 +837,6 @@
     "vendas": 9274,
     "nota": 4.7,
     "url": "https://s.shopee.com.br/5AtXKCf792",
-    "data": "2026-10-25"
-  },
-  {
-    "id": "18297619389",
-    "nome": "Lixador de Pé Elétrico - Esfoliador Tira Calos Pedicure Portátil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr68nerol2joe0",
-    "preco": 15.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 9018,
-    "nota": 4.8,
-    "url": "https://s.shopee.com.br/9V2WTG7drJ",
-    "data": "2026-10-25"
-  },
-  {
-    "id": "23892669902",
-    "nome": "3L Picador De Alimentos Moedor De Carne Mixer Elétrica Processador Cozinha Casa Alho - 110v-220v",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmcgl3nag8au55",
-    "preco": 69.0,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 8486,
-    "nota": 4.8,
-    "url": "https://s.shopee.com.br/W7hlGWMZ1",
     "data": "2026-10-25"
   }
 ]
