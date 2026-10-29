@@ -14,6 +14,20 @@
     "data": "2026-10-29"
   },
   {
+    "id": "51417153718",
+    "nome": "Camiseta Masculino Light T-shirt Insider",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259f-mslnrazy2k1y1f",
+    "preco": 59.0,
+    "de": 69.5,
+    "desconto": 15.1,
+    "fonte_de": "historico",
+    "a_partir_de": false,
+    "vendas": 8283,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/7VHYvJSOvu",
+    "data": "2026-10-29"
+  },
+  {
     "id": "43205830283",
     "nome": "KOOL Auto Todo O Conector Do Inflador Pneus Compressor Ar Mandril Metal",
     "imagem": "https://cf.shopee.com.br/file/54f490893a44ba9749f9219800a5554d",
@@ -824,19 +838,5 @@
     "nota": 4.9,
     "url": "https://s.shopee.com.br/9pfOBd05vH",
     "data": "2026-10-26"
-  },
-  {
-    "id": "23595030114",
-    "nome": "Bravir Bendida Cânfora Pastilhas de 30 Unidades",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258c-mqewyyfdhq82ec",
-    "preco": 22.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 8868,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/1LgpLcr3VY",
-    "data": "2026-10-25"
   }
 ]
