@@ -1,5 +1,33 @@
 [
   {
+    "id": "44265373159",
+    "nome": "Calça Jeans Feminina Wide Leg Cintura Alta Pantalona MARMORIZADA CINTURA ALTA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxnurrbkiypff",
+    "preco": 49.9,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": true,
+    "vendas": 8732,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/5q9MEicvHJ",
+    "data": "2026-10-30"
+  },
+  {
+    "id": "58250499162",
+    "nome": "Varal De Chão 3 Andares Para Roupas e Calcinhas 4 Rodas Dobrável Reforçado e Portátil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-muhv41xck0lf74",
+    "preco": 68.95,
+    "de": 73.46,
+    "desconto": 6.1,
+    "fonte_de": "historico",
+    "a_partir_de": false,
+    "vendas": 9097,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/5LD5c9ghoX",
+    "data": "2026-10-30"
+  },
+  {
     "id": "58219030818",
     "nome": "Dumpling Squishy Bolinho Baozi Brilhante Glitter Surpresa Pãozinho Macio Orbeez",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtjzywafnegze7",
@@ -39,20 +67,6 @@
     "vendas": 8777,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/20wdeF6V6T",
-    "data": "2026-10-30"
-  },
-  {
-    "id": "58250499162",
-    "nome": "Varal De Chão 3 Andares Para Roupas e Calcinhas 4 Rodas Dobrável Reforçado e Portátil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-muhv41xck0lf74",
-    "preco": 68.95,
-    "de": 73.46,
-    "desconto": 6.1,
-    "fonte_de": "historico",
-    "a_partir_de": false,
-    "vendas": 9097,
-    "nota": 4.8,
-    "url": "https://s.shopee.com.br/5LD5c9ghoX",
     "data": "2026-10-30"
   },
   {
@@ -823,20 +837,6 @@
     "vendas": 10861,
     "nota": 4.7,
     "url": "https://s.shopee.com.br/9APi9jrltC",
-    "data": "2026-10-26"
-  },
-  {
-    "id": "22017733321",
-    "nome": "Pistola De Cola Quente Pequena Bivolt + 10 Bastões De Cola Quente Fino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mrbvaxurr1mv50",
-    "preco": 19.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 7866,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/7AedlR20ZH",
     "data": "2026-10-26"
   }
 ]
