@@ -1,5 +1,19 @@
 [
   {
+    "id": "22991651660",
+    "nome": "Chiclete Poosh Escolha o Sabor c/40 - Arcor",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx6-lyccpafglpia2f",
+    "preco": 8.9,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 16085,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/3LS0q7quea",
+    "data": "2026-10-30"
+  },
+  {
     "id": "19650049732",
     "nome": "Creme Depilatório Corporal Depilsam Karité 200G",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-22090-nvm8m0bnvzhv5b",
@@ -67,20 +81,6 @@
     "vendas": 15659,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/5VWVOSfnnh",
-    "data": "2026-10-30"
-  },
-  {
-    "id": "22991651660",
-    "nome": "Chiclete Poosh Escolha o Sabor c/40 - Arcor",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx6-lyccpafglpia2f",
-    "preco": 8.9,
-    "de": 9.8,
-    "desconto": 9.2,
-    "fonte_de": "feed",
-    "a_partir_de": false,
-    "vendas": 13139,
-    "nota": 4.8,
-    "url": "https://s.shopee.com.br/3LS0q7quea",
     "data": "2026-10-30"
   },
   {
