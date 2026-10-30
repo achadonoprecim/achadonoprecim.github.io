@@ -1,5 +1,19 @@
 [
   {
+    "id": "22991651660",
+    "nome": "Chiclete Poosh Escolha o Sabor c/40 - Arcor",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx6-lyccpafglpia2f",
+    "preco": 8.9,
+    "de": 9.8,
+    "desconto": 9.2,
+    "fonte_de": "feed",
+    "a_partir_de": false,
+    "vendas": 13139,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/3LS0q7quea",
+    "data": "2026-10-30"
+  },
+  {
     "id": "19650049732",
     "nome": "Creme Depilatório Corporal Depilsam Karité 200G",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-22090-nvm8m0bnvzhv5b",
@@ -823,20 +837,6 @@
     "vendas": 14091,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/6q1mtONBu4",
-    "data": "2026-10-26"
-  },
-  {
-    "id": "23898692172",
-    "nome": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica Instalação Fácil LED Bivolt E27",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwy-mbw84yf3pvcl00",
-    "preco": 57.77,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 10443,
-    "nota": 4.8,
-    "url": "https://s.shopee.com.br/20wX6guRJW",
     "data": "2026-10-26"
   }
 ]
