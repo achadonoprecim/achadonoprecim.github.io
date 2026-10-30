@@ -1,5 +1,19 @@
 [
   {
+    "id": "19650049732",
+    "nome": "Creme Depilatório Corporal Depilsam Karité 200G",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-22090-nvm8m0bnvzhv5b",
+    "preco": 20.9,
+    "de": 25.9,
+    "desconto": 19.3,
+    "fonte_de": "feed",
+    "a_partir_de": false,
+    "vendas": 13529,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/1BNWFsOac1",
+    "data": "2026-10-30"
+  },
+  {
     "id": "58257349307",
     "nome": "Massegeador de Pescoço 8 Pontos Aquecimento Relaxamento Tensão Ombro Mãos Massagem Alívio",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zq-mm36v4rd0s8x39",
@@ -823,20 +837,6 @@
     "vendas": 10443,
     "nota": 4.8,
     "url": "https://s.shopee.com.br/20wX6guRJW",
-    "data": "2026-10-26"
-  },
-  {
-    "id": "42279199886",
-    "nome": "TOYADENT Pasta de Dente Roxa, Partículas Roxas, Neutraliza Manchas Amarelas",
-    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mr18zi6iz280d8",
-    "preco": 19.9,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 15419,
-    "nota": 4.8,
-    "url": "https://s.shopee.com.br/7VHTejsmeQ",
     "data": "2026-10-26"
   }
 ]
