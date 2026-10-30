@@ -1,5 +1,33 @@
 [
   {
+    "id": "41557489268",
+    "nome": "MEGA HIDRATAÇÃO OURO MARROQUINO EFEITO TEIA | ANTIFRIZZ | ÓLEOS MILAGROSOS | FINA MARIA PROFESSIONAL",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgcvuf1960as06",
+    "preco": 39.9,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 15706,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/4qGoc7MBt4",
+    "data": "2026-10-30"
+  },
+  {
+    "id": "45054396139",
+    "nome": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+    "preco": 39.9,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 16364,
+    "nota": 5.0,
+    "url": "https://s.shopee.com.br/4LKY0yLudM",
+    "data": "2026-10-30"
+  },
+  {
     "id": "58215850369",
     "nome": "Pack Saco de Lixo Lavanda Pia e Banheiro 34x38cm Neutraliza Odores Material Resistente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mrn44e6olc05fe",
@@ -67,34 +95,6 @@
     "vendas": 13270,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/4LKY0uMlyc",
-    "data": "2026-10-30"
-  },
-  {
-    "id": "41557489268",
-    "nome": "MEGA HIDRATAÇÃO OURO MARROQUINO EFEITO TEIA | ANTIFRIZZ | ÓLEOS MILAGROSOS | FINA MARIA PROFESSIONAL",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgcvuf1960as06",
-    "preco": 39.9,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 14237,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/4qGoc7MBt4",
-    "data": "2026-10-30"
-  },
-  {
-    "id": "45054396139",
-    "nome": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-    "preco": 39.9,
-    "de": 79.9,
-    "desconto": 50.1,
-    "fonte_de": "feed",
-    "a_partir_de": true,
-    "vendas": 15922,
-    "nota": 5.0,
-    "url": "https://s.shopee.com.br/4LKY0yLudM",
     "data": "2026-10-30"
   },
   {
