@@ -1,5 +1,19 @@
 [
   {
+    "id": "23999656092",
+    "nome": "Moedor Multifuncional de Café 110V com Design em Aço Inoxidável 4 Lâminas",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a6-ms2w4rj3eg3q6b",
+    "preco": 31.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 15418,
+    "nota": 4.8,
+    "url": "https://s.shopee.com.br/2LZVHxQo4b",
+    "data": "2026-10-31"
+  },
+  {
     "id": "22694204664",
     "nome": "Cozedor De Ovos Portátil Elétrico Cozinha A Vapor 110v/220v",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbxi2wd1amvtfc",
@@ -824,19 +838,5 @@
     "nota": 4.9,
     "url": "https://s.shopee.com.br/1141ErUFTQ",
     "data": "2026-10-27"
-  },
-  {
-    "id": "58214386399",
-    "nome": "Kit Máscara Cirúrgica Descartável Vabene Tripla com Filtro Branca Preta Rosa Uso Profissional",
-    "imagem": "https://cf.shopee.com.br/file/br-11134224-820lb-mqqcchjv1szl00",
-    "preco": 10.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 8628,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/9fLyk9XjJW",
-    "data": "2026-10-26"
   }
 ]
