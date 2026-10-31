@@ -1,5 +1,33 @@
 [
   {
+    "id": "23698853317",
+    "nome": "Lixeira Automática 12 Litros Com Sensor Infravermelho Tampa Para Cozinha Banheiro Escritório Quarto",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mccb5id6es7v2d",
+    "preco": 55.71,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 15152,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/5q9NSYR6p6",
+    "data": "2026-10-31"
+  },
+  {
+    "id": "23397598167",
+    "nome": "Frasco Pump Gel Hard Borboleta D&Z 22g",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqy2g33ecs9043",
+    "preco": 9.97,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 19057,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/906PEmVLzd",
+    "data": "2026-10-31"
+  },
+  {
     "id": "58256443198",
     "nome": "Pastilha Limpa Lavadora: Limpeza Profunda, Remove Manchas e Bactérias  Fácil e Rápido--Mwei Store",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260c-mli7iku1hgqp50",
@@ -25,20 +53,6 @@
     "vendas": 15348,
     "nota": 4.9,
     "url": "https://s.shopee.com.br/8VA8dOwAbZ",
-    "data": "2026-10-31"
-  },
-  {
-    "id": "23698853317",
-    "nome": "Lixeira Automática 12 Litros Com Sensor Infravermelho Tampa Para Cozinha Banheiro Escritório Quarto",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mccb5id6es7v2d",
-    "preco": 56.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": false,
-    "vendas": 14294,
-    "nota": 4.9,
-    "url": "https://s.shopee.com.br/5q9NSYR6p6",
     "data": "2026-10-31"
   },
   {
@@ -823,20 +837,6 @@
     "vendas": 17235,
     "nota": 4.6,
     "url": "https://s.shopee.com.br/1BNRS0m04n",
-    "data": "2026-10-27"
-  },
-  {
-    "id": "58250773364",
-    "nome": "Espuma Spray Zip Clean 300ml Limpa a Seco Sofá, Estofado, Banco de Carro Limpeza Profunda",
-    "imagem": "https://cf.shopee.com.br/file/br-11134224-81z1k-mh9nubaawhs579",
-    "preco": 13.99,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 15856,
-    "nota": 4.8,
-    "url": "https://s.shopee.com.br/1W0HqQPBDc",
     "data": "2026-10-27"
   }
 ]
