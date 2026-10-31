@@ -1,5 +1,19 @@
 [
   {
+    "id": "8020679826",
+    "nome": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
+    "preco": 112.99,
+    "de": null,
+    "desconto": null,
+    "fonte_de": null,
+    "a_partir_de": false,
+    "vendas": 12869,
+    "nota": 4.9,
+    "url": "https://s.shopee.com.br/2qVlu53TX5",
+    "data": "2026-10-31"
+  },
+  {
     "id": "23698853317",
     "nome": "Lixeira Automática 12 Litros Com Sensor Infravermelho Tampa Para Cozinha Banheiro Escritório Quarto",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mccb5id6es7v2d",
@@ -823,20 +837,6 @@
     "vendas": 10633,
     "nota": 4.8,
     "url": "https://s.shopee.com.br/1qd8GCCQRk",
-    "data": "2026-10-27"
-  },
-  {
-    "id": "58268402309",
-    "nome": "Squishy Bun Surpresa 2 Estilos 6 Cores Brinquedo Sensorial Macio Glitter para Apertar 3+",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mtxslaoh9xq966",
-    "preco": 19.49,
-    "de": null,
-    "desconto": null,
-    "fonte_de": null,
-    "a_partir_de": true,
-    "vendas": 17235,
-    "nota": 4.6,
-    "url": "https://s.shopee.com.br/1BNRS0m04n",
     "data": "2026-10-27"
   }
 ]
